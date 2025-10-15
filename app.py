@@ -1,5 +1,5 @@
 def main():
     print("Hello from Jenkins CI/CD with Python!")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
